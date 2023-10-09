@@ -6,8 +6,8 @@
 }
 
 .banner__titulo {
-    font-size: 5px;
-    font-weight:200 ;
+    font-size: 18px;
+    font-weight:700 ;
 }
 
 .banner__texto {
@@ -27,7 +27,7 @@
 .banner__pesquisa::placeholder {
     font-family: var(--fonte-principal);
     font-size: 14px;
-    font-weight: 200;
+    font-weight: 400;
     text-align: center;
     color: var(--branco);
     background: url("../img/Lupa.svg") no-repeat;
